@@ -1,4 +1,4 @@
-
+[![redpanda's GitHub Banner]()]()
 # Hi there,I'm Kohta!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=radical" />
