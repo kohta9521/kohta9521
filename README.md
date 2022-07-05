@@ -9,5 +9,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kohta9521&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
