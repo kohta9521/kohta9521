@@ -1,8 +1,8 @@
 # Hi there,I'm Kohta!
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=radical" />
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohta9521&layout=compact&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohta9521&layout=compact&theme=radical" />
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
