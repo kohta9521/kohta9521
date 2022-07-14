@@ -7,6 +7,9 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img align="left" width="47%" src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/34afcde7-9878-47bf-8a10-a73742a51a4b.svg" />
+<img align="left" width="47%" src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/3edc2f8a-b9e6-4ea8-a475-24525851822a.svg" />
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kohta9521&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
