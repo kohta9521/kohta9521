@@ -1,5 +1,5 @@
- # Hi there and welcome to my GitHub page!
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&color=72F700&vCenter=true&multiline=true&lines=Hi+there+and+welcome+to+my+page!)](https://git.io/typing-svg)
+
  My name is Kohta and I am a web developer from Tokyo. I do a lot of things, and some of them you may even find interesting.
  
  ---
@@ -49,6 +49,14 @@
 
 ---
 
-# ここから記述
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kohta9521&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark)
+
+### GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Embeddable Charts
+<a href="https://wakatime.com"><img width="48%" src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/35b261f6-846f-4bf2-bc10-a3f32c9393b5.png" /></a>
+<a href="https://wakatime.com"><img width="48%" src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/5a3bd7eb-2883-4032-8db2-56762b4048ab.png" /></a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
