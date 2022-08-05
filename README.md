@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&color=72F700&vCenter=true&multiline=true&lines=Hi+there+and+welcome+to+my+page!)](https://git.io/typing-svg)
 
- My name is Kohta and I am a web developer from Tokyo. I do a lot of things, and some of them you may even find interesting.
+ My name is Kohta and I am a web developer from Japan. I do a lot of things, and some of them you may even find interesting.
  
  ---
  
