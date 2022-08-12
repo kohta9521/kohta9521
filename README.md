@@ -60,6 +60,5 @@
 <a href="https://wakatime.com"><img width="48%" src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/5a3bd7eb-2883-4032-8db2-56762b4048ab.png" /></a>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
----
+-----
