@@ -47,6 +47,13 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
+ ### Other things I do
+ 
+<p>Recently, I have been studying using AtCoder and AIZU ONLINE JUDGE, which are well-known tools for competitive programming.</p>
+ [AIZU ONLINE JUDGE](https://onlinejudge.u-aizu.ac.jp/status/users/k9521)
+ [AtCoder](https://atcoder.jp/users/kohta_francis)
+
 ---
 
 # GitHub Stats
