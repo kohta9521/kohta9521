@@ -89,8 +89,9 @@ I am also currently a member of a programming club at my university, where I wor
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark)　
-[![trophy](https://github-profile-trophy.vercel.app/?username=kohta9521&row=2&column=3&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kohta9521&row=1&column=7&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>  
