@@ -74,8 +74,4 @@
  [AtCoder](https://atcoder.jp/users/kohta_francis)
  
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kohta9521&theme=github_dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kohta9521&theme=github_dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kohta9521&theme=github_dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kohta9521&theme=github_dark)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kohta9521&theme=github_dark&utcOffset=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kohta9521&show_icons=true&theme=tokyonight&layout=compact&locale=en&langs_count=10" alt="obregonia1" />
