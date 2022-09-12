@@ -70,8 +70,8 @@ I am also currently a member of a programming club at my university, where I wor
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 </div>  
+
 
 
 
@@ -87,6 +87,8 @@ I am also currently a member of a programming club at my university, where I wor
 
 <br/>  
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=github-readme-stats)](https://github.com/kohta9521/go_study)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/kohta9521/C_language_practice)
 
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark)
