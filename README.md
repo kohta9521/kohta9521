@@ -98,12 +98,19 @@ I am also currently a member of a programming club at my university, where I wor
 </a>
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kohta9521&row=1&column=7&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark" width="50%" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohta9521&layout=compact&langs_count=10&theme=chartreuse-dark" width="36%" />
+</a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br/>  
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kohta9521&row=1&column=7&theme=matrix" width="100%" />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=chartreuse-dark" width="100%" />
+</a>
 
 ## Other things I do  
 Recently, we have also been using competition programming to learn!  
