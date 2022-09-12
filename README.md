@@ -99,10 +99,10 @@ I am also currently a member of a programming club at my university, where I wor
 
 ## Github Stats  
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark" width="50%" align="left" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohta9521&layout=compact&langs_count=10&theme=chartreuse-dark" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohta9521&layout=compact&langs_count=10&theme=chartreuse-dark" width="36%" align="right" />
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
