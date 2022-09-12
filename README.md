@@ -87,8 +87,7 @@ I am also currently a member of a programming club at my university, where I wor
 
 <br/>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=go_study)](https://github.com/kohta9521/go_study)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=C_language_practice)](https://github.com/kohta9521/C_language_practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=go_study&theme=chartreuse-dark)](https://github.com/kohta9521/go_study)
 
 ## Github Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohta9521&show_icons=true&theme=chartreuse-dark)
