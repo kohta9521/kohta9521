@@ -72,3 +72,10 @@
 <p>Recently, I have been studying using AtCoder and AIZU ONLINE JUDGE, which are well-known tools for competitive programming.</p>
  [AIZU ONLINE JUDGE](https://onlinejudge.u-aizu.ac.jp/status/users/k9521). <br>
  [AtCoder](https://atcoder.jp/users/kohta_francis)
+ 
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kohta9521&theme=github_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kohta9521&theme=github_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kohta9521&theme=github_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kohta9521&theme=github_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kohta9521&theme=github_dark&utcOffset=8)
