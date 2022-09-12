@@ -88,13 +88,13 @@ I am also currently a member of a programming club at my university, where I wor
 <br/>  
 
 <a href="https://github.com/kohta9521/go_study">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=go_study&theme=chartreuse-dark" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=go_study&theme=chartreuse-dark" width="33%"/>
 </a>
 <a href="https://github.com/kohta9521/C_language_practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=go_study&theme=chartreuse-dark" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=go_study&theme=chartreuse-dark" width="33%"/>
 </a>
 <a href="https://github.com/kohta9521/kohta9521">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=kohta9521&theme=chartreuse-dark" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kohta9521&repo=kohta9521&theme=chartreuse-dark" width="33%"/>
 </a>
 
 ## Github Stats  
