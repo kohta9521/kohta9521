@@ -116,7 +116,7 @@ I am also currently a member of a programming club at my university, where I wor
   <img src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/1bd6bf0a-19f0-4f88-8855-1de8d057922a.png" width="48%" />
 </a>
 <a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/d82685e0-f4ac-4aa0-84d6-f75b69ff25ab.png" width="48%" align="right" />
+  <img src="https://wakatime.com/share/@4464c829-1723-447a-a468-c2afe832b295/e9b09539-4d37-4cc5-8a2f-a567b4fc02f1.png" width="48%" align="right" />
 </a>
 
 ## Other things I do  
