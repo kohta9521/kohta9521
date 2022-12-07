@@ -17,7 +17,7 @@
 ### Glad to see you here!  
 I am 19 years old and currently enrolled in college. I am studying to work as an engineer in the future. I am studying front-end and back-end technologies, as well as creating applications for IOS and other applications on a daily basis.
 
-I am also currently a member of a programming club at my university, where I work with my friends on daily development and hackathon events. I will continue to learn more about programming, so please look forward to it!  
+I am also currently the representative of ENTER, a group of university student engineers. I work with fellow university student engineers to improve our skills every day! 
   
 
 <br/>  
