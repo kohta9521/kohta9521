@@ -89,9 +89,6 @@ I am also currently the representative of ENTER, a group of university student e
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=kohta9521&row=1&column=7&theme=matrix" width="100%" />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kohta9521&theme=chartreuse-dark" width="100%" />
-</a>
 
 ## Other things I do  
 Recently, we have also been using competition programming to learn!  
