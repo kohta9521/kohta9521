@@ -110,4 +110,3 @@ https://onlinejudge.u-aizu.ac.jp/status/users/k9521
 ###### <div align="right">※Basically,language is written in Python or go.</div>  
 
 <br />
----
