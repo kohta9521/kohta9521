@@ -14,10 +14,13 @@
 
 
 
-### Glad to see you here!  
-I am 19 years old and currently enrolled in college. I am studying to work as an engineer in the future. I am studying front-end and back-end technologies, as well as creating applications for IOS and other applications on a daily basis.
+### I am glad to see you here.
 
-I am also currently the representative of ENTER, a group of university student engineers. I work with fellow university student engineers to improve our skills every day! 
+I am 19 years old and currently enrolled in college. I am studying to work as an engineer in the future. I have participated in two companies as an intern and am gaining practical experience in both the front-end and back-end.
+
+Recently, I have been undertaking work such as website development for a friend's start-up business.
+
+I am also currently the representative of ENTER, a group of university student engineers. Together with my fellow university student engineers, I aim to improve my skills every day.
   
 
 <br/>  
@@ -45,6 +48,7 @@ I am also currently the representative of ENTER, a group of university student e
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>     
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 </div>
 
 
@@ -55,7 +59,6 @@ I am also currently the representative of ENTER, a group of university student e
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 </div>  
   
 
