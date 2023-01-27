@@ -25,7 +25,7 @@ I am also currently the representative of ENTER, a group of university student e
 
 <br/>  
 
-
+<!--
 ## Languages and Tools  
 
 
@@ -71,6 +71,8 @@ I am also currently the representative of ENTER, a group of university student e
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>    
 </div>  
+
+-->
 
 <br/>  
 
