@@ -10,6 +10,7 @@
 <a href="https://twitter.com/kohta_piano" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
+
   
 
 
@@ -107,4 +108,8 @@ https://onlinejudge.u-aizu.ac.jp/status/users/k9521
 ###### <div align="right">※Basically,language is written in Python or go.</div>  
 
 <br />
----
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kohta/count.svg?"  />
+</div>
+
