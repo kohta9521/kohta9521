@@ -110,6 +110,6 @@ https://onlinejudge.u-aizu.ac.jp/status/users/k9521
 <br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kohta/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/kohta9521/count.svg?"  />
 </div>
 
