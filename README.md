@@ -82,7 +82,7 @@ I am also currently the representative of ENTER, a group of university student e
 <a>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kohta9521&theme=chartreuse-dark" width="100%" />
 </a>
-
+<!--
 ## Other things I do  
 Recently, we have also been using competition programming to learn!  
 
@@ -96,7 +96,7 @@ https://onlinejudge.u-aizu.ac.jp/status/users/k9521
   
 
 ###### <div align="right">※Basically,language is written in C++ or Java</div>  
-
+-->
 <br />
 
 <div align="center">
