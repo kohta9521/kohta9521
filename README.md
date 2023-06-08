@@ -76,7 +76,8 @@ I am also currently the representative of ENTER, a group of university student e
   <img src="https://github-profile-trophy.vercel.app/?username=kohta9521&row=1&column=7&theme=matrix" width="100%" />
 </a>
 <a>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kohta9521&theme=chartreuse-dark" width="100%" />
+  <!--  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kohta9521&theme=chartreuse-dark" width="100%" /> -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kohta9521&theme=chartreuse-dark" width="100%" />
 </a>
 <!--
 ## Other things I do  
@@ -95,8 +96,5 @@ https://onlinejudge.u-aizu.ac.jp/status/users/k9521
 -->
 <br />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kohta9521/count.svg?"  />
-</div>
----
+
 ---
