@@ -72,6 +72,11 @@ I am also currently the representative of ENTER, a group of university student e
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohta9521&layout=compact&langs_count=10&theme=chartreuse-dark" width="36%" align="right" />
 </a>
 
+<a>
+<!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kohta9521/&thema=Compact-layout" width="100% /> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kohta9521&langs_count=16&layout=compact&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00" width="100% />
+</a>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=kohta9521&row=1&column=7&theme=matrix" width="100%" />
 </a>
@@ -79,6 +84,8 @@ I am also currently the representative of ENTER, a group of university student e
   <!--  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kohta9521&theme=chartreuse-dark" width="100%" /> -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kohta9521&theme=chartreuse-dark" width="100%" />
 </a>
+
+    
 <!--
 ## Other things I do  
 Recently, we have also been using competition programming to learn!  
