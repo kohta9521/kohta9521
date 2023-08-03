@@ -1,5 +1,7 @@
+  <!--
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&color=72F700&vCenter=true&multiline=true&lines=Hi+there+and+welcome+to+my+page!)](https://git.io/typing-svg)
-  
+
 
 ### I am glad to see you here.
 
@@ -11,7 +13,7 @@ I am also currently the representative of ENTER, a group of university student e
   
 
 <br/>  
-
+-->
 <!--
 
 ## Languages and Tools  
