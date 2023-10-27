@@ -10,8 +10,8 @@ I am 20 years old and currently enrolled in college. I am studying to work as an
 Recently, I have been undertaking work such as website development for a friend's start-up business.
 
 I am also currently the representative of ENTER, a group of university student engineers. Together with my fellow university student engineers, I aim to improve my skills every day.
-  
-<br/>  
+
+<br/>
 -->
 <!--
 
