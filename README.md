@@ -94,9 +94,15 @@ I am also currently the representative of ENTER, a group of university student e
 ## My Servuce
 
 ### Reginavi
+学祭の飲食などで円滑なレジ・オペレーション管理を可能にするサービス、Reginaviを制作させていただきました。
+
+![Group 5](https://github.com/kohta9521/kohta9521/assets/100065508/3290cae5-5b72-4dcd-ab4a-ec1fd44fb203)
 
 ### ここごはん
-    
+ランチ　・　ディナーの際にこれまで行ったことあるレストランや店舗をクローズドな環境で登録・共有ができるサービスです。
+<img width="612" alt="logo" src="https://github.com/kohta9521/kohta9521/assets/100065508/864a92e5-37c1-449b-bf3a-213dacdd88e1">
+
+
 <!--
 ## Other things I do  
 Recently, we have also been using competition programming to learn!  
