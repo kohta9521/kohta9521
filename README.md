@@ -9,7 +9,6 @@ Recently, I have been undertaking work such as website development for a friend'
 
 I am also currently the representative of ENTER, a group of university student engineers. Together with my fellow university student engineers, I aim to improve my skills every day.
 <br/>
-
 -->
   <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&color=72F700&vCenter=true&multiline=true&lines=Hi+there+and+welcome+to+my+page!)](https://git.io/typing-svg)
