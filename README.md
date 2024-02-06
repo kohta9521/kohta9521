@@ -23,6 +23,7 @@ Recently, I have been undertaking work such as website development for a friend'
 I am also currently the representative of ENTER, a group of university student engineers. Together with my fellow university student engineers, I aim to improve my skills every day.
 <br/>
 -->
+
 <!--
 ## Languages and Tools 
 
