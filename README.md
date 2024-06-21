@@ -25,7 +25,6 @@ I am also currently the representative of ENTER, a group of university student e
 <br/>
 -->
 
-
 <!--
 ## Languages and Tools 
 
