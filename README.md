@@ -1,17 +1,17 @@
-  <!--
-![header2](https://github.com/kohta9521/kohta9521/assets/100065508/991da692-6296-4f15-889a-ca0474e57748)
-
-
-
-### I am glad to see you here.
-
-I am 20 years old and currently enrolled in college. I am studying to work as an engineer in the future. I have participated in two companies as an intern and am gaining practical experience in both the front-end and back-end.
-
-Recently, I have been undertaking work such as website development for a friend's start-up business.
-
-I am also currently the representative of ENTER, a group of university student engineers. Together with my fellow university student engineers, I aim to improve my skills every day.
+# I am glad to see you here.
 <br/>
--->
+I am a 21 year old university student currently attending Gakushuin University, Faculty of Law, Department of Law! I started studying programming when I entered university and have experience working for various companies.
+
+My specialty is front-end programming, but recently I have been acquiring knowledge in various fields such as back-end and security based on my work experience.
+
+I have also participated in several startups and companies, and have served as CTO of one of them!
+Thank you for your interest in my work!
+<br/>
+<br/>
+
+## Languages and Tools 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,tailwind,jest,docker,aws,firebase,github,rust,figma)](https://skillicons.dev)
+
   <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=7000&color=72F700&vCenter=true&multiline=true&lines=Hi+there+and+welcome+to+my+page!)](https://git.io/typing-svg)
 
