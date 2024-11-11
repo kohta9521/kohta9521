@@ -1,4 +1,4 @@
-# I am glad to see you here.
+#　👋 I am glad to see you here.
 <br/>
 I am a 21 year old university student currently attending Gakushuin University, Faculty of Law, Department of Law! I started studying programming when I entered university and have experience working for various companies.
 
