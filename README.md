@@ -5,6 +5,7 @@ I am a 21 year old university student currently attending Gakushuin University, 
 My specialty is front-end programming, but recently I have been acquiring knowledge in various fields such as back-end and security based on my work experience.
 
 I have also participated in several startups and companies, and have served as CTO of one of them!
+
 Thank you for your interest in my work!
 <br/>
 <br/>
