@@ -1,12 +1,13 @@
 # 👋 I am glad to see you here.
 <br/>
-I am a 21 year old university student currently attending Gakushuin University, Faculty of Law, Department of Law! I started studying programming when I entered university and have experience working for various companies.
+I'm a 22-year-old university student currently enrolled in the Department of Law at Gakushuin University! I started learning programming when I entered university and have worked at various companies.
+My specialty is front-end programming, but recently I've gained knowledge in various fields like back-end and security through practical experience.
 
-My specialty is front-end programming, but recently I have been acquiring knowledge in various fields such as back-end and security based on my work experience.
-
-I have also participated in several startups and companies, and have served as CTO of one of them!
+I currently serve as COO and Engineering Manager at an AI security startup.
 
 Thank you for your interest in my work!
+
+Translated with DeepL.com (free version)
 <br/>
 <br/>
 
